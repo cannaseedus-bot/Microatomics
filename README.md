@@ -47,7 +47,8 @@ SVG: SVG path tensor representation
 - **High precision**: Geometric constraints ensure accuracy
 
 ## Architecture
-K'UHUL GPU Runtime
+# K'UHUL GPU Runtime
+```
 ├── Geometric Tensor Engine (π-based)
 │ ├── Tensor creation from π relationships
 │ ├── Geometric transformations (rotate, scale, shear)
@@ -68,8 +69,8 @@ K'UHUL GPU Runtime
 ├── Cluster management endpoints
 ├── Model API endpoints
 └── Geometric computation endpoints
+```
 
-text
 
 ## Quick Start
 

@@ -2,7 +2,7 @@
 
 ## T(x) = π · sin(x) · e^(iθ) + ∇·(SVG ⊗ Geometry)
 
-Where:
+#### Where:
 ```
 T(x): Geometric tensor transformation
 ```
